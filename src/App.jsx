@@ -3,7 +3,7 @@ function App() {
     <p class="text-4xl text-green-700 text-center py-20">Hello Tailwind!</p>
     <div className="mx-auto">
     <label className="swap swap-rotate">
-  <input type="checkbox" className="theme-controller" value="synthwave" />
+  <input type="checkbox" className="theme-controller" value="nord" />
 
   {/* sun icon */}
   <svg
